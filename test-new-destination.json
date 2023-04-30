@@ -1,5 +1,5 @@
 {
-  "repository": "@specifyapp/mamasita-land",
+  "repository": "@specifyapp/npm",
   "rules": [
     {
       "name": "Design Tokens / Colors",
