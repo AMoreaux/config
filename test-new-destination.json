@@ -1,5 +1,4 @@
 {
-  "repository": "@specifyapp/npm",
   "rules": [
     {
       "name": "Design Tokens / Colors",
