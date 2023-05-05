@@ -1,29 +1,5 @@
 {
   "rules": [
-   {
-      "name": "Design Tokens / Vectors",
-      "path": "./output/vectors",
-      "filter": {
-        "types": [
-          "vector"
-        ]
-      },
-      "parsers": [
-        {
-          "name": "kebabcasify"
-        },
-        {
-          "name": "svgo",
-          "options": {
-            "svgo": {
-              "js2svg": {
-                "pretty": true
-              }
-            }
-          }
-        }
-      ]
-    },
     {
       "name": "Design Tokens / Bitmap",
       "path": "./assets",
