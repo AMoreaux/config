@@ -26,7 +26,7 @@
     },
     {
       "name": "Design Tokens / Bitmap",
-      "path": "./output/bitmap",
+      "path": "./assets",
       "filter": {
         "types": [
           "bitmap"
