@@ -4,14 +4,9 @@
       "name": "Design Tokens / Bitmap",
       "path": "./assets",
       "filter": {
-        "types": [
-          "bitmap"
-        ]
+        "types": ["bitmap"]
       },
       "parsers": []
     }
   ]
 }
-      
-
-
