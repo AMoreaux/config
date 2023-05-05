@@ -23,6 +23,16 @@
           }
         }
       ]
+    },
+    {
+      "name": "Design Tokens / Bitmap",
+      "path": "./output/bitmap",
+      "filter": {
+        "types": [
+          "bitmap"
+        ]
+      },
+      "parsers": []
     }
   ]
 }
